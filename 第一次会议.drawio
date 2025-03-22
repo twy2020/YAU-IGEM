@@ -1,0 +1,223 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="H6GcCzfyBAe5TInU37c6">
+    <mxGraphModel dx="1436" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-1" value="项目目标：开发新型生物传感器检测铜绿假单胞菌" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="172" y="20" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-2" value="市场现状：国内无成熟铜绿假单胞菌检测产品，主要检测大肠杆菌" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="136" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-3" value="策略：以大肠杆菌为基础构建工程菌" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="145" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-4" value="基因改造：删除不必要基因 + 引入所需基因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="270" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-5" value="检测机制：接触铜绿假单胞菌后产生信号分子 (TAKS &amp; HSL-3)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="386" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-6" value="信号传导：信号分子激活相应蛋白，启动下游基因表达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="520" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-7" value="结果输出：表达特定酶 (β-galactosidase / β-glucuronidase)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="339" y="637" width="220" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-8" value="检测指示：底物反应产生黄色或荧光" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="323" y="779" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-9" value="当前进展：构建消除干扰的工程菌，实验验证中（初步结果不佳但已改进）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="625" y="770" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-10" value="存在问题：其他菌种可能产生类似信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="928" y="645" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-11" value="改进方向：寻找更专一的分子信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="927" y="779" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-12" value="最终目标：准确检测环境中铜绿假单胞菌" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="625" y="904" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-1" target="Z1WYw88Rs7Jsmm2Sm0uB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="147" y="111" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-1" target="Z1WYw88Rs7Jsmm2Sm0uB-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="111" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-3" target="Z1WYw88Rs7Jsmm2Sm0uB-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-4" target="Z1WYw88Rs7Jsmm2Sm0uB-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-5" target="Z1WYw88Rs7Jsmm2Sm0uB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-6" target="Z1WYw88Rs7Jsmm2Sm0uB-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-7" target="Z1WYw88Rs7Jsmm2Sm0uB-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-8" target="Z1WYw88Rs7Jsmm2Sm0uB-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="879" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-9" target="Z1WYw88Rs7Jsmm2Sm0uB-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-10" target="Z1WYw88Rs7Jsmm2Sm0uB-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.14;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-11" target="Z1WYw88Rs7Jsmm2Sm0uB-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1054" y="879" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-24" value="建模工作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="681" y="1030" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-25" value="基因调控网络建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1129" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-26" value="信号传导建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1129" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-27" value="酶动力学建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="554" y="1129" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-28" value="系统级生物学建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1129" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-29" value="数据驱动模型优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="999" y="1129" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-30" value="干扰因素建模" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1237" y="1129" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-24" target="Z1WYw88Rs7Jsmm2Sm0uB-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="1104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-24" target="Z1WYw88Rs7Jsmm2Sm0uB-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="426" y="1104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-24" target="Z1WYw88Rs7Jsmm2Sm0uB-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="632" y="1104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-24" target="Z1WYw88Rs7Jsmm2Sm0uB-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="854" y="1104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-24" target="Z1WYw88Rs7Jsmm2Sm0uB-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1093" y="1104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-24" target="Z1WYw88Rs7Jsmm2Sm0uB-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1315" y="1104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-37" value="了解整体工程设计流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="632.5" y="1250" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-38" value="识别可定量环节（转入效率、翻译效率、催化效率等）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="1349" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-39" value="转化实验步骤为数学表达" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="1465" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-40" value="构建初步数学模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="648.5" y="1564" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-41" value="与实验组交流，收集实验数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="616.5" y="1662" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-42" value="根据数据修订和完善模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="1779" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-43" value="建立最终完善的数学模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="1877" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-37" target="Z1WYw88Rs7Jsmm2Sm0uB-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-38" target="Z1WYw88Rs7Jsmm2Sm0uB-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-39" target="Z1WYw88Rs7Jsmm2Sm0uB-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-40" target="Z1WYw88Rs7Jsmm2Sm0uB-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-41" target="Z1WYw88Rs7Jsmm2Sm0uB-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z1WYw88Rs7Jsmm2Sm0uB-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Z1WYw88Rs7Jsmm2Sm0uB-42" target="Z1WYw88Rs7Jsmm2Sm0uB-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
